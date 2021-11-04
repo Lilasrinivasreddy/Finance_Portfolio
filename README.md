@@ -1,6 +1,6 @@
 *Deep Learning in Finance Repository*
 
-This repository contains the code used for developing the material for the presentation titles Deep Learning in Finance by Sonam Srivastava, presented at RE-WORK Deep Learning in Finance Conference in Singapore.
+This repository contains the code used for developing the material for the presentation titles Deep Learning in Finance, presented at RE-WORK Deep Learning in Finance Conference in Singapore.
 
 Link for the same is: http://videos.re-work.co/events/22-deep-learning-in-finance-summit-singapore-2017
 
